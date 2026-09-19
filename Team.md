@@ -5,21 +5,21 @@ Please fill in the details below before submitting your project.
 ## Team Details
 
 **Team Name:**
-`Your Team Name`
+**devika gopi**
 
 **Team Size:**
-`1 / 2`
+1
 
 ### Participant 1
 
 **Name:**
-`Your Name`
+**devika gopi**
 
 **Email:**
-`your@email.com`
+**devikagopi74@gmail.com**
 
 **GitHub:**
-`https://github.com/username`
+**devikagopi74-max**
 
 ### Participant 2
 
@@ -37,22 +37,22 @@ Please fill in the details below before submitting your project.
 ---
 
 ## Project Information
+**website re-designing
 
-### Original Website
 
 **Website Name:**
-`Name of the website`
+thinkerhub cet
 
 **Original Website URL:**
-`https://example.com`
+https://tinkerhubcet.github.io/
 
 ### Your Redesign
 
 **Project Name:**
-`Name of your redesign`
+myweb.html
 
 **Live Website:**
-`https://your-deployment-url.com`
+https://websiteredesign-eta.vercel.app/
 
 **Repository:**
 `https://github.com/username/repository`
